@@ -3,7 +3,7 @@ Control your home automations based on F1 Race Flags by using simple screenshots
 
 ### Requirements
 - Microsoft Windows
-- Python [3.7]https://www.python.org/downloads/release/python-370/)
+- Python 3.7 [(link)](https://www.python.org/downloads/release/python-370/)
 
 ### First time installation
 - Clone this repository to a directory on your machine [how-to](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/).
