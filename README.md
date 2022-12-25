@@ -1,6 +1,12 @@
 # F1 Smart Flags
 Control your home automations based on F1 Race Flags by using simple screenshots and OCR.
 
+<a href="https://www.buymeacoffee.com/alpl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="200px" ></a>
+    <br />
+    <br />
+    Hey, I develop free and open source apps like this F1 race flag tracker. All donations are greatly appreciated and directly support my work.
+  </p>
+
 ### Requirements
 - Microsoft Windows
 - Python 3.7 [(link)](https://www.python.org/downloads/release/python-370/)
