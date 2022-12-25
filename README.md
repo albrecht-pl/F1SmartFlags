@@ -6,7 +6,7 @@ Control your home automations based on F1 Race Flags by using simple screenshots
 - Python [3.7]https://www.python.org/downloads/release/python-370/)
 
 ### First time installation
-- Clone this repository to a directory on your machine [(how-to)](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/).
+- Clone this repository to a directory on your machine [how-to](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/).
 - Start > cmd > cd to the source code directory.
 - ```pip install -r requirements.txt```
 - For the use with [Home Assistant](https://www.home-assistant.io/), you need to enable [API calls](https://developers.home-assistant.io/docs/api/rest/) and create an [Access Token](https://developers.home-assistant.io/docs/auth_api/#long-lived-access-token). Your Access Token has to be in the script.
