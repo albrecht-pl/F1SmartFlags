@@ -1,0 +1,1 @@
+api: # add this line to your HA configuration.yaml to allow API calls
