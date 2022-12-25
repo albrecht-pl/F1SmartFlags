@@ -20,7 +20,7 @@ print("Flag Tracking Started.")
 
 current_state = "Green"
 state_changed = False
-grab_rate = 150  # using milliseconds
+sleep_time = 150  # using milliseconds
 
 url = "http://homeassistant.local:8123/api/events/F1Flag"
 headers = {
@@ -105,4 +105,4 @@ while True:
             current_state = "SC"
             state_changed = True
 
-    time.sleep(grab_rate/1000)
+    time.sleep(sleep_time/1000)
