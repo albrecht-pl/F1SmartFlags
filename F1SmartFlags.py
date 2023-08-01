@@ -90,6 +90,7 @@ if len(monitors) > 1:
     for index, monitor in enumerate(monitors):
         print(str(index + 1) + ": " + str(monitor))
     monitor_id = int(input('Enter the monitor number to watch: ')) - 1
+    print('Watching Monitor: ' + str(monitor_id+1))
 else:
     monitor_id = 0
 x_min = int(60 / 1920 * monitors[monitor_id].width)
